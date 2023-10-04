@@ -9,3 +9,4 @@ Poster Link: https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-a6104
 Sustainable Horizons Institute (SHI) and Berkeley Lab Computing Sciences SRP Workshop, Berkeley Lab, California, USA, Dec 2021, Application of neural networks for aiding lung diagnosis of lung disorders, by Pawar S.D, R. Chopade and A. Stanam,
 https://docs.google.com/presentation/d/1p4RRB2QZLeFBTxjjr_ZpzpGblMuqdyIC/edit#slide=id.p1
 
+[APP](http://20.169.253.49:5001/login)
