@@ -2,6 +2,7 @@
 [Python: numpy, pandas, glob, tqdm, sklearn.utils, shuffle]
 [Paper Link:](https://www.researchsquare.com/article/rs-1129014/v1)
 [Poster Link:](https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-a6104b66-064c-4cd4-bb24-0ccdc51caf10)
+![SHI](https://github.com/spawar2/CNN-X-ray-images/assets/25118302/5f18aead-cc71-4b26-bb52-4e985d9f0f10)
 
 [Product:](https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk)
 
