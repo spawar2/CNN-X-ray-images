@@ -1,4 +1,4 @@
-# CNN-X-ray-images
+# CNN-X-ray-images.
 [Python: numpy, pandas, glob, tqdm, sklearn.utils, shuffle]
 [Paper Link:](https://www.researchsquare.com/article/rs-1129014/v1)
 [Poster Link:](https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-a6104b66-064c-4cd4-bb24-0ccdc51caf10)
@@ -16,5 +16,5 @@ Springer Bioinformatics and Biomedical Engineering.
 [Sustainable Horizons Institute (SHI) and Berkeley Lab Computing Sciences SRP Workshop, Berkeley Lab, California, USA, Dec 2021, Application of neural networks for aiding lung diagnosis of lung disorders, by Pawar S.D, R. Chopade and A. Stanam,](https://docs.google.com/presentation/d/1p4RRB2QZLeFBTxjjr_ZpzpGblMuqdyIC/edit#slide=id.p1)
 
 [APP](http://20.169.253.49:5001/login)
-Claflin University, Orangeburg, South Carolina, USA 
+Claflin University, Orangeburg, South Carolina, USA. 
 https://www.claflin.edu/
