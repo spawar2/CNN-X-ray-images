@@ -19,3 +19,5 @@ Springer Bioinformatics and Biomedical Engineering.
 Claflin University, Orangeburg, South Carolina, USA. 
 https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
+
+CNN_Shrikant.py:'Cardiomegaly','Emphysema','Effusion','Hernia','Nodule','Pneumothorax','Atelectasis','Pleural_Thickening','Mass','Edema','Consolidation','Infiltration','Fibrosis','Pneumonia' X-ray imaging data read, split, plotting, noise removal, Convolution 2D network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
