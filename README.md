@@ -13,10 +13,10 @@
 Springer Bioinformatics and Biomedical Engineering.
 <img width="478" alt="Screenshot 2023-02-28 at 12 02 27 AM" src="https://user-images.githubusercontent.com/25118302/221759790-c962a7b7-42b6-426a-9ab7-92a6e4325937.png">
 
-[Sustainable Horizons Institute (SHI) and Berkeley Lab Computing Sciences SRP Workshop, Berkeley Lab, California, USA, Dec 2021, Application of neural networks for aiding lung diagnosis of lung disorders, by Pawar S.D, R. Chopade and A. Stanam,](https://docs.google.com/presentation/d/1p4RRB2QZLeFBTxjjr_ZpzpGblMuqdyIC/edit#slide=id.p1)
+[Sustainable Horizons Institute (SHI) and Berkeley Lab Computing Sciences SRP Workshop, Berkeley Lab, California, USA, 7 December, 2021, Application of neural networks for aiding lung diagnosis of lung disorders, by Pawar S.D, R. Chopade and A. Stanam,](https://docs.google.com/presentation/d/1p4RRB2QZLeFBTxjjr_ZpzpGblMuqdyIC/edit#slide=id.p1)
 
 [APP:](http://20.169.253.49:5001/login)
-Claflin University, Orangeburg, South Carolina, USA. 
+Claflin University, Orangeburg, South Carolina, United States of America (USA). 
 https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 
