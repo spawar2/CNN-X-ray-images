@@ -4,7 +4,7 @@
 [Poster Link:](https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-a6104b66-064c-4cd4-bb24-0ccdc51caf10)
 ![SHI](https://github.com/spawar2/CNN-X-ray-images/assets/25118302/5f18aead-cc71-4b26-bb52-4e985d9f0f10)
 <img width="157" alt="CLR’S" src="https://github.com/spawar2/CNN-X-ray-images/assets/25118302/198ba3ac-e0c4-4eec-85a3-4effbb4b223d">
-
+Cyclical Learning Rates (CLR’s) for improving training accuracies and lowering computational cost Chopade, R. presently with ChestAi, Stanam, A., Anand, N., Shrikant Pawar. Publication: Research Square (Publication date: December 21), collaboration with Indian Institute of Technology, Kharagpur, Dr. Narayanan, Johnson & Johnson, Pennsylvania, USA, Product App. Video, Github, Article link ^^1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ,13, 14, 15. DOI: https://doi.org/10.21203/rs.3.rs-1129014/v1, Issue, Volume, Pages.
 [Product:](https://aws.amazon.com/marketplace/seller-profile?id=seller-b6otd3wry7lkk)
 
 <img width="1433" alt="ChestAi" src="https://github.com/spawar2/CNN-X-ray-images/assets/25118302/7f7fea3f-5e64-47ca-ba30-d6366372cbda">
