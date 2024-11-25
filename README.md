@@ -22,3 +22,5 @@ https://www.claflin.edu/academics-research/schools-departments/school-of-natural
 
 CNN_Shrikant.py:'Cardiomegaly','Emphysema','Effusion','Hernia','Nodule','Pneumothorax','Atelectasis','Pleural_Thickening','Mass','Edema','Consolidation','Infiltration','Fibrosis','Pneumonia' X-ray imaging data read, Test-Train Split, Neural, plotting, noise removal, Convolution 2D network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
 selected function(pd.read_csv, plt.figure, plt.Circle, plt.pie,plot_hist, add_gaussian_noise, Model, model.fit, evaluate_model, network, confusion_matrix, model.predict, model.load_weights, model.compile, model.add, model.summary, plot_confusion_matrix, Sequential, binary_accuracy).
+
+Score(160px, FE): 0.878; score(160px, FT): 0.879; score(320px, FE): 0.887.
